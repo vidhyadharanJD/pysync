@@ -1,0 +1,10 @@
+{
+  "TENANCY_OCID": "ocid1.tenancy.oc1....",
+  "USER_OCID": "ocid1.user.oc1....",
+  "FINGERPRINT": "xx:xx:xx:xx:xx",
+  "PRIVATE_KEY_PATH": "oci_api_key.pem",
+  "REGION": "ap-hyderabad-1",
+  "NAMESPACE": "your_namespace",
+  "BUCKET_NAME": "psync",
+  "CHECK_INTERVAL": 5
+}
