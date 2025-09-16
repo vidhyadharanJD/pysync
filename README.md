@@ -28,7 +28,7 @@ UIN_Uploader/
     Right-click → Run as Administrator.
 
   Step 2: Download UIN Uploader
-  git clone https://github.com/yourusername/UIN_Uploader.git
+  git clone https://github.com/vidhyadharanJD/pysync.git
 
   Step 3: Install Dependencies
   Open Command Prompt inside the folder and run:
